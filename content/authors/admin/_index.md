@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Jan Fillies
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Jan
+last_name: Fillies
 
 # Status emoji
 status:
@@ -16,28 +16,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow and CNRS future recruit
+role: Scientific Researcher,  PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: Institut für Angewandte Informatik an der Universität Leipzig
+    url: https://infai.org/
+  - name: Freie Universität Berlin
+    url: https://www.fu-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
+bio: I am a computer science PhD candidate at Freie Universität Berlin researching the influence of youth language on algorithmic hate speech detection.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - NLP
+  - Deep Learning
+  - Digital Human Rights
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Computer Science
+      institution: Freie Universität Berlin (Germany)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,21 +49,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:jan.f.fillies@gmail.com
     # link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=XScCsl0AAAAJ&hl=de
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jan-fillies-b06255137/
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/fillies
     display:
       header: true
   - icon: cv
@@ -75,17 +73,12 @@ email: 'jan.f.fillies@gmail.com'
 highlight_name: true
 ---
 **About me**
+I am a computer science PhD candidate at [Freie Universität Berlin](https://www.fu-berlin.de/) and scientific researcher at [INFAI](https://infai.org/) researching he influence of youth language on algorithmic hate speech detection. In the course of my current doctoral studies in Computer Science at the Freie Universität Berlin (FUB), I am investigating the influence of youth language on the algorithmic detection of hateful language. During this process, I am collecting data, developing prototypes for educational outreach in schools, and training multilingual detection models. As part of the project for my doctoral studies, I am working on developing a bias detection framework and training machine learning models tailored to this context. I am using symbolic AI methods to combine the sparsely available datasets and enhance the range of definitions of hate covered by the trained networks.
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
+**Interests**
+* Natural Language Processing 
+* Symbolic, Subsymbolic AI, and everything in between 
+* Algorithmic Hate Speech Detection
+* Definitions of Hate
+* Online Youth Language 
 
-**Open source and open data**
-
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
-* [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations
-* [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
-
-**Outreach**
-
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
