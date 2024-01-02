@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 widget: portfolio
 
 # This file represents a page section.
@@ -23,13 +23,6 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Nanofluids
-      tag: Nanofluids
-    - name: Other
-      tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

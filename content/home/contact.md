@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: simon.gravelle@live.fr
+  email: jan.f.fillies@gmail.com
 
 design:
   columns: '2'
