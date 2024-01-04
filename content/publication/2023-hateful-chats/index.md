@@ -1,5 +1,5 @@
 ---
-title: "User Experience Design for Automatic Credibility Assessment of News Content About COVID-19"
+title: "Student’s View on Hate Speech: Gamified Annotation for Educational Use"
 date: 2023-06-23
 publishDate:  2023-06-28
 authors: ["**Jan Fillies**", "Raimi Solorzano Niederhausen", "Silvio Peikert", "Adrian Paschke"]
