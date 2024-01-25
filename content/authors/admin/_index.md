@@ -73,7 +73,7 @@ email: 'jan.f.fillies@gmail.com'
 highlight_name: true
 ---
 **About me**
-I am a computer science PhD candidate at [Freie Universität Berlin](https://www.fu-berlin.de/) and scientific researcher at [INFAI](https://infai.org/) researching the influence of youth language on algorithmic hate speech detection. In the course of my current doctoral studies in Computer Science at the Freie Universität Berlin (FUB), I am investigating the influence of youth language on the algorithmic detection of toxic speech. During this process, I am collecting data, developing prototypes for educational outreach in schools, and training multilingual detection models. As part of the project for my doctoral studies, I am working on developing a bias detection framework and training machine learning models tailored to this context. I am using symbolic AI methods to combine the sparsely available datasets and enhance the range of definitions of hate covered by the trained networks.
+I am a computer science PhD candidate at [Freie Universität Berlin](https://www.fu-berlin.de/) and scientific researcher at [INFAI](https://infai.org/) researching the influence of youth language on algorithmic hate speech detection. During this process, I am collecting data, developing prototypes for educational outreach in schools, and training multilingual detection models. As part of the project, I am working on developing a bias detection framework and training machine learning models tailored to this context. I am using symbolic AI methods to combine the sparsely available datasets and enhance the range of definitions of hate covered by the trained networks.
 
 **Interests**
 * Natural Language Processing 
